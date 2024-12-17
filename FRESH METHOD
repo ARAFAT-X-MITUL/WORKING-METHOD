@@ -41,7 +41,7 @@ headers = {
     'sec-fetch-dest': 'empty',
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-origin',
-    'user-agent': ua3,
+    'user-agent': ua1,
     'x-asbd-id': '129477',
     'x-fb-friendly-name': 'StoriesSuspenseContentPaneRootWithEntryPointQuery',
     'x-fb-lsd': 'I6AmxlqYID1jHyNUEp41VM',
